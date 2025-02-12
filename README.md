@@ -1,3 +1,6 @@
+
+![Minimalist Power Tools Rectangular Advertisement](https://github.com/user-attachments/assets/9b695f16-cc19-4f56-86fc-23611bc381c6)
+
 # 👩‍💻 Анна Юрасова | Anna Yurasova – Junior QA Engineer  
 
 ##  О себе  
