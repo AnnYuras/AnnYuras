@@ -4,6 +4,11 @@
 Привет, меня зовут Аня, и я QA Engineer!  
 Я начинающий тестировщик, активно развиваюсь в сфере QA и имею опыт работы с различными инструментами тестирования. В этом репозитории собраны примеры моей тестовой документации: чек-листы, тест-кейсы, баг-репорты и проекты по тестированию.  
 
+## 🏆 Образование | 🇬🇧 Education  
+🎓 **QA Engineer, Яндекс Практикум** | **QA Engineer, Yandex Practicum**  
+📜 **Диплом**: [Посмотреть диплом](https://drive.google.com/file/d/1aN_t6cEysTzQBlkIpn3kaZYcxLXNAAyj/view?usp=sharing) | **🇬🇧 Diploma**: [View Diploma](https://drive.google.com/file/d/1K_K7CoRBeGyc230Agiaa8NMUT4LLVq5k/view?usp=sharing)
+
+
 ## 🇬🇧 About Me  
 Hello! My name is Anya, and I am a QA Engineer.  
 I am a junior manual tester actively developing in the QA field. I have experience with various testing tools and methodologies. This repository contains examples of my test documentation: checklists, test cases, bug reports, and testing projects.  
