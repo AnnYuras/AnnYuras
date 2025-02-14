@@ -81,12 +81,13 @@ This repository contains examples of my test documentation: checklists, test cas
 
 ---
 
-## 📬 Контакты | Contacts  
-📧 **Email**: [yuras_anna@icloud.com](mailto:yuras_anna@icloud.com)  
-📱 **Telegram**: [@anchousvbanke](https://t.me/anchousvbanke)  
-📱 **WhatsApp**: [Contact via WhatsApp](https://wa.me/79107625948)  
-💼 **LinkedIn**: [Добавить ссылку | Add link]  
-📍 **Город | Location**: Тбилиси | Tbilisi  
+## 📬 Контакты  
+- 📧 [Email](mailto:yuras_anna@icloud.com)  
+- 📱 [Telegram](https://t.me/anchousvbanke)  
+- 📱 [WhatsApp](https://wa.me/79107625948)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anna-yurasova-338b83350/)  
+- 📍 Тбилиси  
+
 
 ---
 
